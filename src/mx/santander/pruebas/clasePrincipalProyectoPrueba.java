@@ -7,7 +7,16 @@ public class clasePrincipalProyectoPrueba {
 		
 		System.out.println("Hola Mundo");
 		
+		System.out.println("PruebaGit");
 		
+		System.out.println("PruebaGitDos");
+		
+		int uno = 0;
+		int dos = 2;
+		
+		int resultado = uno + dos;
+		
+		System.out.println("Resultado de las suma:"+resultado);
 		
 	}
 
