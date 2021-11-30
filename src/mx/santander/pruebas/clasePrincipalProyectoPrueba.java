@@ -18,6 +18,10 @@ public class clasePrincipalProyectoPrueba {
 		
 		System.out.println("Resultado de las suma:"+resultado);
 		
+		if (resultado!=0) {
+			System.out.println("El resultado es Cero bolita");
+		}
+		
 	}
 
 }
